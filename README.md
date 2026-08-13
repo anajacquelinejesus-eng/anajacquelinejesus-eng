@@ -166,8 +166,5 @@ Essa experiência me permite conectar **dados, tecnologia e negócio**, buscando
 
 <p align="center">
   <strong>Sem café. Com consistência.</strong>
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7A4E3A&height=90&section=footer"/>
 </p>
