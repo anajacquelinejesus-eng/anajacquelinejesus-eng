@@ -1,24 +1,26 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B1E2D&height=180&section=header&text=Ana%20Jacqueline&fontSize=42&fontColor=FFF8F0&animation=fadeIn&fontAlignY=35&desc=Automação%20%7C%20IA%20%7C%20Engenharia%20de%20Dados&descSize=17&descAlignY=57"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B1E2D&height=150&section=header&text=Dados%20sem%20café&fontSize=38&fontColor=FFF8F0&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <p align="center">
-  <strong>Automação • Inteligência Artificial • Engenharia de Dados</strong>
+  <strong>Engenharia de Dados • Automação • IA</strong>
 </p>
 
 <p align="center">
-  Transformando processos, dados e tecnologia em soluções práticas.
+  Construindo soluções com dados, código e consistência.
 </p>
+
+<br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ajacqueline">
-    <img src="https://img.shields.io/badge/LinkedIn-8B1E2D?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-8B1E2D?style=flat-square&logo=linkedin&logoColor=FFF8F0">
   </a>
   <a href="mailto:anajacquelinejesus@gmail.com">
-    <img src="https://img.shields.io/badge/Email-A52A3A?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-A52A3A?style=flat-square&logo=gmail&logoColor=FFF8F0">
   </a>
   <a href="https://github.com/anajacquelinejesus-eng">
-    <img src="https://img.shields.io/badge/GitHub-8B1E2D?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github&logoColor=FFF8F0">
   </a>
 </p>
 
@@ -26,144 +28,149 @@
 
 ## Sobre mim
 
-Atuo com **automação de processos, IA, integrações via API e CRM**.
+Sou profissional de **Automação e IA**, em transição para **Engenharia de Dados**.
 
-Atualmente, estou aprofundando meus conhecimentos em Engenharia de Dados, criando projetos que envolvem:
+Minha experiência começou na construção de automações, integrações via API, CRMs e soluções com IA. Atualmente, estou direcionando essa experiência para o universo de dados, desenvolvendo projetos com foco em:
 
-* Pipelines ETL
-* Modelagem de dados
-* Bancos relacionais
-* Tratamento e análise de dados
-* Containerização e orquestração
+* Engenharia de Dados
+* ETL e pipelines
+* SQL e PostgreSQL
+* Python e Pandas
+* Processamento de dados
+* Streaming e mensageria
+* Docker e infraestrutura
+
+Meu objetivo é unir **dados + tecnologia + negócio** para construir soluções que resolvam problemas reais.
 
 📍 Aracaju, Sergipe
-🎯 Em busca de oportunidades na área de Dados
+🎯 Foco atual: Engenharia de Dados
 
 ---
 
-## Tecnologias
+## Stack
 
-### 📊 Dados
+### Dados
 
 <p>
-  <img src="https://img.shields.io/badge/SQL-8B1E2D?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-A52A3A?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-8B1E2D?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-A52A3A?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-8B1E2D?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-A52A3A?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-8B1E2D?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-A52A3A?style=flat-square&logo=pandas&logoColor=white">
 </p>
 
-### ⚙️ Engenharia & Infraestrutura
+### Engenharia
 
 <p>
-  <img src="https://img.shields.io/badge/Docker-8B1E2D?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Apache%20Kafka-A52A3A?style=for-the-badge&logo=apachekafka&logoColor=white">
-  <img src="https://img.shields.io/badge/Apache%20Airflow-8B1E2D?style=for-the-badge&logo=apacheairflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-A52A3A?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-8B1E2D?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kafka-A52A3A?style=flat-square&logo=apachekafka&logoColor=white">
+  <img src="https://img.shields.io/badge/Airflow-8B1E2D?style=flat-square&logo=apacheairflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-A52A3A?style=flat-square&logo=git&logoColor=white">
 </p>
 
-### 🤖 Automação & IA
+### Automação & IA
 
 <p>
-  <img src="https://img.shields.io/badge/n8n-8B1E2D?style=for-the-badge&logo=n8n&logoColor=white">
-  <img src="https://img.shields.io/badge/Make-A52A3A?style=for-the-badge&logo=make&logoColor=white">
-  <img src="https://img.shields.io/badge/Zapier-8B1E2D?style=for-the-badge&logo=zapier&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenAI-A52A3A?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/n8n-8B1E2D?style=flat-square&logo=n8n&logoColor=white">
+  <img src="https://img.shields.io/badge/Make-A52A3A?style=flat-square&logo=make&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenAI-8B1E2D?style=flat-square&logo=openai&logoColor=white">
 </p>
 
 ---
 
-## 🚀 Projeto em destaque
+## Projeto em destaque
 
-### 📡 ERB Monitoring Pipeline
+### ERB Monitoring Pipeline
 
-Pipeline de Engenharia de Dados desenvolvido utilizando **dados reais da ANATEL**, com foco em ingestão, processamento, armazenamento e monitoramento de dados.
+Pipeline de Engenharia de Dados desenvolvido com **dados reais da ANATEL**.
 
-**Principais entregas:**
+O projeto simula um cenário de ingestão e processamento de dados de estações rádio base, utilizando diferentes tecnologias de um pipeline moderno de dados.
 
-* Ingestão e processamento de dados reais da ANATEL
-* Pipeline de dados estruturado em etapas
-* Processamento de dados com Python
+**Tecnologias**
+
+`Python` `PostgreSQL` `Apache Kafka` `Docker` `PySpark`
+
+**O que foi desenvolvido**
+
+* Ingestão de dados reais da ANATEL
+* Tratamento e processamento com Python
+* Estruturação de pipeline ETL
 * Armazenamento em PostgreSQL
-* Streaming e mensageria com Apache Kafka
+* Streaming e mensageria com Kafka
 * Ambiente containerizado com Docker
 * Estrutura preparada para monitoramento e análise
 
 <p align="center">
   <a href="https://github.com/anajacquelinejesus-eng/erb-monitoring-pipeline">
-    <img src="https://img.shields.io/badge/VER%20PROJETO-8B1E2D?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/VER%20PROJETO-8B1E2D?style=for-the-badge&logo=github&logoColor=FFF8F0">
   </a>
 </p>
 
 ---
 
-## 📚 Atualmente estudando
+## O que estou estudando
 
-* Engenharia de Dados
-* Pipelines de dados
-* SQL e PostgreSQL
-* Python e Pandas
-* ETL
-* Docker
-* Apache Kafka
-* Apache Airflow
-* Qualidade e processamento de dados
+```text
+Engenharia de Dados
+        ↓
+     Python
+        ↓
+ SQL + PostgreSQL
+        ↓
+   ETL / ELT
+        ↓
+ Docker + Kafka
+        ↓
+Airflow + Orquestração
+        ↓
+Qualidade e processamento de dados
+```
 
 ---
 
-## Experiência complementar
+## Experiência
 
-Também possuo experiência prática com:
+Antes de focar em Engenharia de Dados, construí experiência prática com:
 
-* Automação de processos
-* Desenvolvimento de agentes de IA
-* Integrações via API
-* CRMs e ferramentas de atendimento
+**Automação**
+
 * Construção de fluxos automatizados
-* Análise de dados
-* Soluções utilizando LLMs
+* Integrações entre plataformas
+* APIs e webhooks
+* CRMs
+* Automação de processos
 
-Essa experiência me permite conectar **dados, automação e negócio**, buscando construir soluções aplicáveis a processos reais.
+**Inteligência Artificial**
+
+* Desenvolvimento de agentes de IA
+* LLMs
+* Engenharia de prompts
+* Fluxos conversacionais
+* Integração de IA com automações
+
+Essa experiência me trouxe uma visão que considero importante em dados:
+
+> **Não basta processar dados. É preciso entender o problema que eles precisam resolver.**
 
 ---
 
-## 📊 GitHub
+## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anajacquelinejesus-eng&show_icons=true&hide_border=true&title_color=8B1E2D&icon_color=A52A3A&text_color=555555&bg_color=FFF8F0" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=anajacquelinejesus-eng&show_icons=true&hide_border=true&title_color=8B1E2D&icon_color=A52A3A&text_color=333333&bg_color=FFF8F0" height="165">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajacquelinejesus-eng&layout=compact&hide_border=true&title_color=8B1E2D&text_color=555555&bg_color=FFF8F0" height="165">
-</p>
-
----
-
-## 📫 Contato
-
-<p align="center">
-
-<a href="mailto:anajacquelinejesus@gmail.com">
-  <img src="https://img.shields.io/badge/anajacquelinejesus%40gmail.com-8B1E2D?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/ajacqueline">
-  <img src="https://img.shields.io/badge/LinkedIn-A52A3A?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/anajacquelinejesus-eng">
-  <img src="https://img.shields.io/badge/GitHub-8B1E2D?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajacquelinejesus-eng&layout=compact&hide_border=true&title_color=8B1E2D&text_color=333333&bg_color=FFF8F0" height="165">
 </p>
 
 ---
 
 <p align="center">
-  <strong>Sem café. Com consistência. ☕</strong>
+  <strong>Sem café. Com consistência.</strong>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B1E2D&height=100&section=footer"/>
+  <sub>Dados, código e um pouco de teimosia.</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B1E2D&height=90&section=footer"/>
 </p>
