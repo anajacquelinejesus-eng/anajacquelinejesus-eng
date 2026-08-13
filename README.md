@@ -1,25 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7A4E3A&height=160&section=header&text=Ana%20Jacqueline&fontSize=40&fontColor=FFF8F0&animation=fadeIn&fontAlignY=38"/>
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=8B4513&height=180&section=header&text=Ana%20Jacqueline&fontSize=42&fontColor=FFF8F0&animation=fadeIn&fontAlignY=35&desc=Automação%20%7C%20IA%20%7C%20Engenharia%20de%20Dados&descSize=17&descAlignY=57"/> </p>
 
-<p align="center">
-  <strong>Engenharia de Dados • Automação • Inteligência Artificial</strong>
-</p>
+<p align="center"> Profissional de <strong>Automação e Inteligência Artificial</strong><br> em transição para <strong>Engenharia de Dados</strong>. </p>
 
-<p align="center">
-  Transformando dados, processos e tecnologia em soluções práticas.
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ajacqueline">
-    <img src="https://img.shields.io/badge/LinkedIn-7A4E3A?style=flat-square&logo=linkedin&logoColor=FFF8F0">
-  </a>
-  <a href="mailto:anajacquelinejesus@gmail.com">
-    <img src="https://img.shields.io/badge/Email-8B1E2D?style=flat-square&logo=gmail&logoColor=FFF8F0">
-  </a>
-</p>
+<p align="center"> <a href="https://www.linkedin.com/in/ajacqueline"> <img src="https://img.shields.io/badge/LinkedIn-8B4513?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://www.instagram.com/dadossemcafe"> <img src="https://img.shields.io/badge/@dadossemcafe-A52A2A?style=for-the-badge&logo=instagram&logoColor=white"> </a> </p>
 
 ---
 
@@ -150,21 +133,6 @@ Essa experiência me permite conectar **dados, tecnologia e negócio**, buscando
 
 ---
 
-## Conecte-se comigo
+<p align="center"> <strong>anajacquelinejesus@gmail.com.</strong> ☕ </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ajacqueline">
-    <img src="https://img.shields.io/badge/LinkedIn-7A4E3A?style=for-the-badge&logo=linkedin&logoColor=FFF8F0">
-  </a>
-
-  <a href="mailto:anajacquelinejesus@gmail.com">
-    <img src="https://img.shields.io/badge/Email-8B1E2D?style=for-the-badge&logo=gmail&logoColor=FFF8F0">
-  </a>
-</p>
-
----
-
-<p align="center">
-  <strong>Sem café. Com consistência.</strong>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7A4E3A&height=90&section=footer"/>
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=8B4513&height=100&section=footer"/> </p>
